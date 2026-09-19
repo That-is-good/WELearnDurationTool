@@ -80,7 +80,7 @@ Release版支持Windows，因为依赖edge。
    https://welearn.sflep.com/course/courseinfo.aspx?cid=810
    ```
 
-   ![示例](./exampleImg/uid.png)
+   ![示例](./exampleImg/cid.png)
 
 3. `cid=` 后面的数字就是**课程 ID**，填入「课程 ID」输入框即可。
 
@@ -97,7 +97,7 @@ Release版支持Windows，因为依赖edge。
    https://welearn.sflep.com/User/StuProfile.aspx?uid=114514
    ```
 
-   ![示例](./exampleImg/cid.png)
+   ![示例](./exampleImg/uid.png)
 
 3. `uid=` 后面的数字就是**用户 ID**。
 
